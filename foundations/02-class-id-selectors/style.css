@@ -1,0 +1,19 @@
+.oddClass {
+  font-family: "Veranda", "DejaVu Sans", "sans-serif";
+  background-color: #ffb6c1;
+}
+
+#blueSecond {
+  color: blue;
+  font-size: 36px;
+}
+
+.oddClass.cooler {
+  font-size: 24px;
+}
+
+#greenFourth {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
